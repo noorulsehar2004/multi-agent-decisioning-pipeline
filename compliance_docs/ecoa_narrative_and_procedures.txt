@@ -1,0 +1,74 @@
+CFPB Consumer Laws and Regulations - ECOA (Equal Credit Opportunity Act)
+Source: https://files.consumerfinance.gov/f/documents/201510_cfpb_ecoa-narrative-and-procedures.pdf
+
+Equal Credit Opportunity Act (ECOA)
+
+The Equal Credit Opportunity Act (ECOA), which is implemented by Regulation B, applies to
+all creditors. The statute provides that its purpose is to require financial institutions and other
+firms engaged in the extension of credit to make credit equally available to all creditworthy
+customers without regard to sex or marital status. Moreover, the statute makes it unlawful for
+any creditor to discriminate against any applicant with respect to any aspect of a credit
+transaction (1) on the basis of race, color, religion, national origin, sex or marital status, or age
+(provided the applicant has the capacity to contract); (2) because all or part of the applicant's
+income derives from any public assistance program; or (3) because the applicant has in good
+faith exercised any right under the Consumer Credit Protection Act.
+
+PROHIBITED BASES (protected characteristics that cannot be used to discriminate):
+- Race, color, religion, national origin
+- Sex or marital status
+- Age (provided the applicant has the capacity to contract)
+- Receipt of income from a public assistance program
+- Exercise of any right under the Consumer Credit Protection Act
+
+Two theories of liability:
+- Disparate treatment: creditor treats an applicant differently based on a prohibited basis.
+- Disparate impact: creditor employs facially neutral policies that have an adverse effect on a
+  member of a protected class, unless it meets a legitimate business need that cannot reasonably
+  be achieved by less discriminatory means.
+
+RULES FOR EVALUATING APPLICATIONS (Section 1002.6):
+A creditor may consider any information in evaluating applicants, so long as the use of the
+information does not have the intent or effect of discriminating on a prohibited basis. Generally,
+a creditor may NOT:
+- Consider any of the prohibited bases, including age (provided the applicant is old enough to
+  contract) and the receipt of public assistance
+- Use child-bearing or child-rearing information/assumptions to determine if an applicant's
+  income may be interrupted or decreased
+- Consider whether there is a telephone listing in the applicant's name
+- Discount or exclude part-time income from an applicant or spouse
+
+CREDIT SCORING SYSTEMS:
+Regulation B distinguishes between "empirically derived, demonstrably and statistically sound"
+credit scoring systems and "judgmental" systems (any system that doesn't meet that standard).
+- In a statistically sound system, age MAY be used as a predictive variable, provided the age of
+  an elderly applicant (62+) is NOT assigned a negative factor or value.
+- In a judgmental system, age may only be considered for the purpose of determining a pertinent
+  element of creditworthiness, or to FAVOR an elderly applicant.
+- In ANY system, age may be considered to favor an elderly applicant, never to disfavor one.
+
+NOTIFICATIONS AND ADVERSE ACTION NOTICES (Section 1002.9):
+A creditor must notify an applicant of action taken (approval or adverse action) within 30 days
+after receiving a completed application.
+
+A notification of adverse action must be in writing and must contain:
+- A statement of the action taken
+- The name and address of the creditor
+- A statement of the ECOA non-discrimination provisions
+- The name/address of the federal agency that enforces compliance
+- EITHER: a statement of SPECIFIC reasons for the action taken (the principal reasons) OR a
+  disclosure of the applicant's right to request those specific reasons within 60 days
+
+CRITICAL RULE: Statements that the adverse action was based on "the creditor's internal
+standards or policies" or that the applicant "failed to achieve a qualifying score on the
+creditor's credit scoring system" are INSUFFICIENT as a statement of reasons. The reasons must
+be specific and indicate the actual principal reason(s) for the denial.
+
+RECORD RETENTION (Section 1002.12):
+A creditor must preserve all written or recorded information connected with an application for
+25 months (12 months for business credit) after the date the creditor informed the applicant of
+the action taken.
+
+ENFORCEMENT, PENALTIES, AND LIABILITIES (Section 1002.16):
+In addition to actual damages, the Act provides for punitive damages of up to $10,000 in
+individual lawsuits, and up to the lesser of $500,000 or 1 percent of the creditor's net worth in
+class action suits.
